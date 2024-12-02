@@ -22,7 +22,7 @@ PostIt is a fully-featured social media web application, built with the MERN sta
 ## Installation and usage
 1) Clone this repository  
 ```
-git clone https://github.com/ihtasham42/social-media-app.git
+git clone https:https://github.com/sanjay2902/Website.git
 ```
 2) Install dependencies  
 ```
